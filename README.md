@@ -41,6 +41,10 @@ script.js    토너먼트 진행 로직 (건드릴 필요 없음)
 - 예외 2곳:
   - 리센느(RESCENE) "Pretty Girl"은 정식 MV가 없는 KARA 리메이크 싱글이라, RESCENE 자체 Special Video로 대체했습니다.
   - PLAVE는 버추얼(가상) 아이돌 그룹이라 뮤비가 모두 애니메이션으로 되어 있습니다(정상입니다).
+- 1차 배포 후 "뮤비 아닌 영상이 섞여 있다"는 피드백을 받고 93곡 전체를 다시 oEmbed로 재검증해 3곳을 고쳤습니다.
+  - LE SSERAFIM "UNFORGIVEN" : 정식 M/V가 아닌 영상이 들어가 있어 공식 M/V로 교체
+  - KiiiKiii "404 (New Era)" : 정식 MV가 아닌 영상이 들어가 있어 공식 MV로 교체
+  - TWS "내가 S면 넌 나의 N이 되어줘" : 같은 그룹의 다른 곡("Plot Twist") MV가 잘못 들어가 있었던 것을 발견해 올바른 곡의 MV로 교체
 
 ## 설정 바꾸기 (`config.js`)
 

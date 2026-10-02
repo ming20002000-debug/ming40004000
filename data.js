@@ -48,7 +48,7 @@ const CANDIDATES = [
   { id: "f26", name: "NewJeans", group: "4세대 · 2022.07 데뷔", song: "ETA", gender: "female", youtubeId: "jOTfBlKSQYY", start: 0 },
   { id: "f27", name: "NewJeans", group: "4세대 · 2022.07 데뷔", song: "How Sweet", gender: "female", youtubeId: "Q3K0TOvTOno", start: 0 },
   { id: "f28", name: "LE SSERAFIM", group: "4세대 · 2022.05 데뷔", song: "ANTIFRAGILE", gender: "female", youtubeId: "pyf8cbqyfPs", start: 0 },
-  { id: "f29", name: "LE SSERAFIM", group: "4세대 · 2022.05 데뷔", song: "UNFORGIVEN", gender: "female", youtubeId: "tIN8f9gmH4M", start: 0 },
+  { id: "f29", name: "LE SSERAFIM", group: "4세대 · 2022.05 데뷔", song: "UNFORGIVEN", gender: "female", youtubeId: "UBURTj20HXI", start: 0 },
   { id: "f30", name: "LE SSERAFIM", group: "4세대 · 2022.05 데뷔", song: "Perfect Night", gender: "female", youtubeId: "hLvWy2b857I", start: 0 },
   { id: "f31", name: "NMIXX", group: "4세대 · 2022.02 데뷔", song: "DICE", gender: "female", youtubeId: "p1bjnyDqI9k", start: 0 },
   { id: "f32", name: "NMIXX", group: "4세대 · 2022.02 데뷔", song: "Love Me Like This", gender: "female", youtubeId: "EDnwWcFpObo", start: 0 },
@@ -71,7 +71,7 @@ const CANDIDATES = [
   { id: "f49", name: "리센느 (RESCENE)", group: "5세대 · 2024.09 데뷔", song: "Pretty Girl", gender: "female", youtubeId: "qZlu2j2SiBA", start: 0 }, // 정식 MV 없음(KARA 리메이크 싱글) — RESCENE 자체 Special Video로 대체
   { id: "f50", name: "Hearts2Hearts (하츠투하츠)", group: "5세대 · 2024.08 데뷔", song: "RUDE!", gender: "female", youtubeId: "F7sGJVUrkjQ", start: 0 },
   { id: "f51", name: "KiiiKiii (키키)", group: "5세대 · 2024.11 데뷔", song: "DANCING ALONE", gender: "female", youtubeId: "LBh9mouO4iI", start: 0 },
-  { id: "f52", name: "KiiiKiii (키키)", group: "5세대 · 2024.11 데뷔", song: "404 (New Era)", gender: "female", youtubeId: "3_l-UI4prVY", start: 0 },
+  { id: "f52", name: "KiiiKiii (키키)", group: "5세대 · 2024.11 데뷔", song: "404 (New Era)", gender: "female", youtubeId: "zhHB4dZTChw", start: 0 },
 
   // ---- 남돌 (male) — 41곡 ----
   { id: "m01", name: "Stray Kids", group: "4세대 · 2018.03 데뷔", song: "神메뉴 (God's Menu)", gender: "male", youtubeId: "TQTlCHxyuu8", start: 0 },
@@ -99,7 +99,7 @@ const CANDIDATES = [
   { id: "m23", name: "RIIZE", group: "5세대 · 2023.09 데뷔", song: "Love 119", gender: "male", youtubeId: "0TAAUWHo4Ec", start: 0 },
   { id: "m24", name: "RIIZE", group: "5세대 · 2023.09 데뷔", song: "Boom Boom Bass", gender: "male", youtubeId: "78lNnCitcBM", start: 0 },
   { id: "m25", name: "RIIZE", group: "5세대 · 2023.09 데뷔", song: "Fly Up", gender: "male", youtubeId: "vLUtHODdLzk", start: 0 },
-  { id: "m26", name: "TWS (투어스)", group: "5세대 · 2024.02 데뷔", song: "내가 S면 넌 나의 N이 되어줘 (Plot Twist)", gender: "male", youtubeId: "hVAc1Vf2ITU", start: 0 },
+  { id: "m26", name: "TWS (투어스)", group: "5세대 · 2024.02 데뷔", song: "내가 S면 넌 나의 N이 되어줘", gender: "male", youtubeId: "NRgZuuwD2WY", start: 0 }, // 기존 링크는 TWS의 다른 곡 "Plot Twist(첫 만남은 계획대로 되지 않아)" MV였음 — 올바른 MV로 교체
   { id: "m27", name: "TWS (투어스)", group: "5세대 · 2024.02 데뷔", song: "OVERDRIVE", gender: "male", youtubeId: "TzbGBkEh9ms", start: 0 },
   { id: "m28", name: "ZEROBASEONE", group: "5세대 · 2023.07 데뷔", song: "GOOD SO BAD", gender: "male", youtubeId: "V5ACuj_jOnc", start: 0 },
   { id: "m29", name: "ZEROBASEONE", group: "5세대 · 2023.07 데뷔", song: "Feel the POP", gender: "male", youtubeId: "L9Ts6kiEAts", start: 0 },
